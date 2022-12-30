@@ -14,6 +14,18 @@ Este é um curso ministrada por Raquel Sousa Pereira sobre styled components com
 
 Styled-components é uma biblioteca que permite escrever códigos CSS dentro do JavaScript.
 
+## Tarefas
+
+- Criar componentes da página: Header, Content e Footer;
+- Estilização básica com styled-components sem Flexbox;
+- Adicionar texto padrão Lorem Ipsum ao conteúdo.
+
+## Modificações:
+
+- Estilização com Flexbox;
+- Responsividade e media queries;
+- Conteúdo modificado com o tema Marketing.
+
 ## Créditos
 
 Foto 1 de [ThisIsEngineering](https://www.pexels.com/pt-br/foto/mulher-codificando-no-computador-3861958/)
