@@ -18,6 +18,6 @@ Styled-components é uma biblioteca que permite escrever códigos CSS dentro do 
 
 Foto 1 de [ThisIsEngineering](https://www.pexels.com/pt-br/foto/mulher-codificando-no-computador-3861958/)
 
-Foto 2 de [ThisIsEngineering] (https://www.pexels.com/pt-br/foto/engenheira-de-software-feminina-codificando-no-computador-3861972/)
+Foto 2 de [ThisIsEngineering](https://www.pexels.com/pt-br/foto/engenheira-de-software-feminina-codificando-no-computador-3861972/)
 
 Foto 3 de [fauxels](https://www.pexels.com/pt-br/foto/foto-de-pessoas-fazendo-apertos-de-mao-3184301/)
